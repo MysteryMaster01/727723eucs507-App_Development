@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": "2cda",
+      "email": "m@g.com",
+      "password": "098"
+    },
+    {
+      "id": "973f",
+      "email": "mad@gmail.com",
+      "password": "098"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "id": "1",
+      "email": "user@example.com",
+      "password": "password123"
+    }
+  ]
+}
