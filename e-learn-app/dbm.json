@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": "1b0e",
+      "email": "don1@g.com",
+      "password": "12345"
+    },
+    {
+      "id": "39d0",
+      "email": "jameer@200",
+      "password": "123"
+    },
+    {
+      "id": "f2f3",
+      "email": "hjiu@g.com",
+      "password": "098",
+      "phoneNumber": "12345678"
+    },
+    {
+      "id": "7990",
+      "email": "hii@g.com",
+      "password": "1234",
+      "phoneNumber": "6369219867"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "id": "1",
+      "email": "example@example.com",
+      "password": "password123",
+      "confirmPassword": "password123",
+      "phoneNumber": "123-456-7890"
+    }
+  ]
+}
